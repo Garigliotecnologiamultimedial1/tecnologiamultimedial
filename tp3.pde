@@ -73,7 +73,7 @@ void setup() {
   Moristedia = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Moristedia.jpg"); 
   Moristenoche = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Moristenoche.jpg");
   Moristecueva = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Moristecueva.jpg");
-  Mauricio = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Mauricio.jpg")
+  Mauricio = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Mauricio.jpg");
   
   Correr = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Correr.jpg");
   Derecha = loadImage("C:/Users/usuario/Desktop/tp3/tp3/data/Derecha.jpg");
